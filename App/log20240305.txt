@@ -1,0 +1,7 @@
+2024-03-05 15:15:50.363 -03:00 [INF] This is an information log
+2024-03-05 15:15:50.486 -03:00 [WRN] This is a warning log
+2024-03-05 15:15:50.489 -03:00 [ERR] This is an error log
+2024-03-05 15:15:50.491 -03:00 [FTL] This is a critical log
+2024-03-05 15:15:50.546 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 32

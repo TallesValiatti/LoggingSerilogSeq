@@ -1,0 +1,131 @@
+2024-02-27 16:27:11.396 -03:00 [VRB] This is a trace log
+2024-02-27 16:27:11.473 -03:00 [DBG] This is a debug log
+2024-02-27 16:27:11.474 -03:00 [INF] This is an information log
+2024-02-27 16:27:11.476 -03:00 [WRN] This is a warning log
+2024-02-27 16:27:11.477 -03:00 [ERR] This is an error log
+2024-02-27 16:27:11.478 -03:00 [FTL] This is a critical log
+2024-02-27 16:27:11.527 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
+2024-02-27 23:19:50.168 -03:00 [VRB] This is a trace log
+2024-02-27 23:19:50.292 -03:00 [DBG] This is a debug log
+2024-02-27 23:19:50.294 -03:00 [INF] This is an information log
+2024-02-27 23:19:50.295 -03:00 [WRN] This is a warning log
+2024-02-27 23:19:50.297 -03:00 [ERR] This is an error log
+2024-02-27 23:19:50.299 -03:00 [FTL] This is a critical log
+2024-02-27 23:19:50.333 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
+2024-02-27 23:42:56.547 -03:00 [VRB] This is a trace log
+2024-02-27 23:42:56.729 -03:00 [DBG] This is a debug log
+2024-02-27 23:42:56.731 -03:00 [INF] This is an information log
+2024-02-27 23:42:56.733 -03:00 [WRN] This is a warning log
+2024-02-27 23:42:56.734 -03:00 [ERR] This is an error log
+2024-02-27 23:42:56.735 -03:00 [FTL] This is a critical log
+2024-02-27 23:42:56.793 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
+2024-02-27 23:44:18.858 -03:00 [VRB] This is a trace log
+2024-02-27 23:44:18.983 -03:00 [DBG] This is a debug log
+2024-02-27 23:44:18.987 -03:00 [INF] This is an information log
+2024-02-27 23:44:18.988 -03:00 [WRN] This is a warning log
+2024-02-27 23:44:18.991 -03:00 [ERR] This is an error log
+2024-02-27 23:44:18.993 -03:00 [FTL] This is a critical log
+2024-02-27 23:44:19.033 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
+2024-02-27 23:44:20.577 -03:00 [VRB] This is a trace log
+2024-02-27 23:44:20.579 -03:00 [DBG] This is a debug log
+2024-02-27 23:44:20.581 -03:00 [INF] This is an information log
+2024-02-27 23:44:20.583 -03:00 [WRN] This is a warning log
+2024-02-27 23:44:20.612 -03:00 [ERR] This is an error log
+2024-02-27 23:44:20.615 -03:00 [FTL] This is a critical log
+2024-02-27 23:44:20.636 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
+2024-02-27 23:45:58.820 -03:00 [DBG] Hosting starting
+2024-02-27 23:45:58.970 -03:00 [INF] Now listening on: http://localhost:5191
+2024-02-27 23:45:58.972 -03:00 [DBG] Loaded hosting startup assembly App
+2024-02-27 23:45:58.975 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-27 23:45:58.977 -03:00 [INF] Hosting environment: Development
+2024-02-27 23:45:58.978 -03:00 [INF] Content root path: /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App
+2024-02-27 23:45:58.979 -03:00 [DBG] Hosting started
+2024-02-27 23:46:02.235 -03:00 [DBG] Connection id "0HN1O0TJELBDV" accepted.
+2024-02-27 23:46:02.241 -03:00 [DBG] Connection id "0HN1O0TJELBDV" started.
+2024-02-27 23:46:02.289 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/logging - null null
+2024-02-27 23:46:02.296 -03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-02-27 23:46:02.298 -03:00 [VRB] All hosts are allowed.
+2024-02-27 23:46:02.334 -03:00 [DBG] 1 candidate(s) found for the request path '/logging'
+2024-02-27 23:46:02.336 -03:00 [DBG] Request matched endpoint 'HTTP: GET /logging'
+2024-02-27 23:46:02.338 -03:00 [VRB] The endpoint does not specify the IRequestSizeLimitMetadata.
+2024-02-27 23:46:02.350 -03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-02-27 23:46:02.352 -03:00 [WRN] Failed to determine the https port for redirect.
+2024-02-27 23:46:02.357 -03:00 [INF] Executing endpoint 'HTTP: GET /logging'
+2024-02-27 23:46:02.363 -03:00 [VRB] This is a trace log
+2024-02-27 23:46:02.364 -03:00 [DBG] This is a debug log
+2024-02-27 23:46:02.365 -03:00 [INF] This is an information log
+2024-02-27 23:46:02.388 -03:00 [WRN] This is a warning log
+2024-02-27 23:46:02.389 -03:00 [ERR] This is an error log
+2024-02-27 23:46:02.390 -03:00 [FTL] This is a critical log
+2024-02-27 23:46:02.459 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
+2024-02-27 23:46:02.506 -03:00 [INF] Setting HTTP status code 200.
+2024-02-27 23:46:02.508 -03:00 [INF] Executed endpoint 'HTTP: GET /logging'
+2024-02-27 23:46:02.511 -03:00 [DBG] Connection id "0HN1O0TJELBDV" completed keep alive response.
+2024-02-27 23:46:02.513 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/logging - 200 0 null 225.533ms
+2024-02-27 23:46:02.960 -03:00 [DBG] Connection id "0HN1O0TJELBDV" received FIN.
+2024-02-27 23:46:02.965 -03:00 [DBG] Connection id "0HN1O0TJELBDV" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-27 23:46:02.969 -03:00 [DBG] Connection id "0HN1O0TJELBDV" disconnecting.
+2024-02-27 23:46:02.973 -03:00 [DBG] Connection id "0HN1O0TJELBDV" stopped.
+2024-02-27 23:51:37.500 -03:00 [DBG] Hosting starting
+2024-02-27 23:51:37.663 -03:00 [INF] Now listening on: http://localhost:5191
+2024-02-27 23:51:37.668 -03:00 [DBG] Loaded hosting startup assembly App
+2024-02-27 23:51:37.670 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-27 23:51:37.671 -03:00 [INF] Hosting environment: Development
+2024-02-27 23:51:37.674 -03:00 [INF] Content root path: /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App
+2024-02-27 23:51:37.675 -03:00 [DBG] Hosting started
+2024-02-27 23:52:47.902 -03:00 [DBG] Connection id "0HN1O11CBC1CB" accepted.
+2024-02-27 23:52:47.936 -03:00 [DBG] Connection id "0HN1O11CBC1CB" started.
+2024-02-27 23:52:48.003 -03:00 [INF] Request starting HTTP/1.1 GET http://localhost:5191/logging - null null
+2024-02-27 23:52:48.010 -03:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2024-02-27 23:52:48.012 -03:00 [VRB] All hosts are allowed.
+2024-02-27 23:52:48.057 -03:00 [DBG] 1 candidate(s) found for the request path '/logging'
+2024-02-27 23:52:48.061 -03:00 [DBG] Request matched endpoint 'HTTP: GET /logging'
+2024-02-27 23:52:48.064 -03:00 [VRB] The endpoint does not specify the IRequestSizeLimitMetadata.
+2024-02-27 23:52:48.078 -03:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2024-02-27 23:52:48.080 -03:00 [WRN] Failed to determine the https port for redirect.
+2024-02-27 23:52:48.086 -03:00 [INF] Executing endpoint 'HTTP: GET /logging'
+2024-02-27 23:52:48.099 -03:00 [VRB] This is a trace log
+2024-02-27 23:52:48.100 -03:00 [DBG] This is a debug log
+2024-02-27 23:52:48.102 -03:00 [INF] This is an information log
+2024-02-27 23:52:48.103 -03:00 [WRN] This is a warning log
+2024-02-27 23:52:48.104 -03:00 [ERR] This is an error log
+2024-02-27 23:52:48.105 -03:00 [FTL] This is a critical log
+2024-02-27 23:52:48.169 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
+2024-02-27 23:52:48.221 -03:00 [INF] Setting HTTP status code 200.
+2024-02-27 23:52:48.222 -03:00 [INF] Executed endpoint 'HTTP: GET /logging'
+2024-02-27 23:52:48.225 -03:00 [DBG] Connection id "0HN1O11CBC1CB" completed keep alive response.
+2024-02-27 23:52:48.227 -03:00 [INF] Request finished HTTP/1.1 GET http://localhost:5191/logging - 200 0 null 224.7105ms
+2024-02-27 23:52:53.034 -03:00 [DBG] Connection id "0HN1O11CBC1CB" received FIN.
+2024-02-27 23:52:53.043 -03:00 [DBG] Connection id "0HN1O11CBC1CB" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-02-27 23:52:53.046 -03:00 [DBG] Connection id "0HN1O11CBC1CB" disconnecting.
+2024-02-27 23:52:53.049 -03:00 [DBG] Connection id "0HN1O11CBC1CB" stopped.
+2024-02-27 23:58:32.593 -03:00 [DBG] Hosting starting
+2024-02-27 23:58:32.732 -03:00 [INF] Now listening on: http://localhost:5191
+2024-02-27 23:58:32.734 -03:00 [DBG] Loaded hosting startup assembly App
+2024-02-27 23:58:32.735 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-02-27 23:58:32.736 -03:00 [INF] Hosting environment: Development
+2024-02-27 23:58:32.737 -03:00 [INF] Content root path: /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App
+2024-02-27 23:58:32.739 -03:00 [DBG] Hosting started
+2024-02-27 23:59:00.323 -03:00 [VRB] This is a trace log
+2024-02-27 23:59:00.415 -03:00 [DBG] This is a debug log
+2024-02-27 23:59:00.417 -03:00 [INF] This is an information log
+2024-02-27 23:59:00.418 -03:00 [WRN] This is a warning log
+2024-02-27 23:59:00.419 -03:00 [ERR] This is an error log
+2024-02-27 23:59:00.420 -03:00 [FTL] This is a critical log
+2024-02-27 23:59:00.459 -03:00 [FTL] This is an exception!
+System.Exception: *** Error ***
+   at Program.<>c.<<Main>$>b__0_0(ILogger`1 logger) in /Users/tallesvaliatti/Projects/LoggingSerilogSeq/App/Program.cs:line 30
